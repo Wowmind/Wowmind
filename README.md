@@ -1,4 +1,4 @@
-As a Cloud Engineer, I specialize in designing, automating, and deploying scalable cloud infrastructure. My work focuses on delivering secure, production-ready environments using modern DevOps practices and Infrastructure as Code (IaC). Here are some highlights of my accomplishments:
+As a Cloud/ Devops Engineer, I specialize in designing, automating, and deploying scalable cloud infrastructure. My work focuses on delivering secure, production-ready environments using modern DevOps practices and Infrastructure as Code (IaC). Here are some highlights of my accomplishments:
 
 •	🚀 Built Scalable Infrastructure using Terraform and AWS CDK for production-grade deployments on AWS (EKS, RDS, ALB, EC2 ASG, S3, CloudFront, Route 53, and more). GCP CDK( Compute engine, Firewall, VPC, cloud storage, Cloud spanner, Cloud run, GKE and more)
 
